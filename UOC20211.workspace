@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="UOC20211" Database="" Version="10.0.0">
+  <Project Name="UOC20211" Path="UOC20211.project" Active="Yes"/>
+  <Project Name="UOCContacts" Path="UOCContacts/UOCContacts.project"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="UOC20211" ConfigName="Debug"/>
+      <Project Name="UOCContacts" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="no">
+      <Environment/>
+      <Project Name="UOC20211" ConfigName="Release"/>
+      <Project Name="UOCContacts" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

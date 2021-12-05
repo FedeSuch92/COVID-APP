@@ -1,0 +1,3 @@
+-IC:\Users\fosp\MyPrivateDocuments\FEDE_SUCH_ESPARZA_PERSONAL\Practicas_Programacion\PR1\UOC20211\UOC20211
+-IC:\Users\fosp\MyPrivateDocuments\FEDE_SUCH_ESPARZA_PERSONAL\Practicas_Programacion\PR1\UOC20211\UOC20211\test\include
+-IC:\Users\fosp\MyPrivateDocuments\FEDE_SUCH_ESPARZA_PERSONAL\Practicas_Programacion\PR1\UOC20211\UOC20211\UOCContacts\include
